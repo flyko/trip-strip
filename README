@@ -1,0 +1,7 @@
+TripStrip - README
+
+	i made this to port/adapt the BrainMachine code to work with 16mhz arduino and rgbLED stips. i want to cycle colors, create stereo patterns and some kind of form or web controller eventually for a whole intelligent lighting scheme.
+
+last updated by "flyko" 5/2013
+
+
